@@ -54,7 +54,7 @@ password=
 
 #Sets the folder where world files will be stored
 #WARNING: Environment variables ($HOME, ~) don't work yet, so the stated folder will be relatively created in "serverfiles" if the given path is relative.
-#worldpath=~/.local/share/Terraria/Worlds/
+#worldpath=Worlds/
 
 #Sets the number of rolling world backups to keep
 #worldrollbackstokeep=2
